@@ -11,3 +11,8 @@
 # 5. git remote add origin https://github.com/ATTIPARK/230315_DAY1.git
 # 6. git remote -v
 # 7. git push -u origin main
+
+# github에 올린다음에 수정했을경우
+# 1. git add.
+# 2. git commit -m "수정한내용에대한 간략한 설명"
+# 3. git push -u origin main
