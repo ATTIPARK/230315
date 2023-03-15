@@ -1,0 +1,13 @@
+# git hub에 업로드하지 말아야 할 파일
+# ex1. 대용량 dependency 패키지들
+# ex2. 실행파일들
+# ex3. 보안민감 파일(private key, 패스워드, 보안키등)
+
+# git 과 github 연결하는 방법
+# 1. git init
+# 2. git add .
+# 3. git commit -m "first commit"
+# 4. git branch -M main
+# 5. git remote add origin https://...........
+# 6. git remote -v
+# 7. git push -u origin main
